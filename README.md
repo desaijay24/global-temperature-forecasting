@@ -1,11 +1,6 @@
 # Global Temperature Forecasting
 ### Machine Learning & Time-Series Techniques
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Dataset](https://img.shields.io/badge/Dataset-NOAA%20GCAG-lightblue)
-
 A complete end-to-end data science project that analyses **175 years of global surface temperature data** (1850–2026) and builds multiple forecasting models to predict future climate trends.
 
 ## Project Highlights
